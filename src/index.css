@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.bg-color-grey {
+  background-color: rgb(23, 24, 22); /* rgb(23, 22, 24) */
+}
+
 .custom-card-image .card.image-full:before {
   border-radius: 0.5rem;
   opacity: 0.45;
