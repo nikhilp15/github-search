@@ -1,5 +1,6 @@
 # Github Profile Finder
 
-[A React app](https://github-search-nikhilp15.vercel.app/) to search GitHub profiles and see profile details.
+**A [React app](https://github-search-nikhilp15.vercel.app/) to search GitHub profiles and see profile details.**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This application is a web interface to help users find profile of github users using either name or username. All relevent profiles similar to entered query name will be shown on home page. An option to visit profile will be available on the all of profile cards. Selecting it will redirect to new page where all the information about particular user including his recent repositories will be available on the page. You can either go back to home page from here or visit his actual github profile available on the github itself.
+
